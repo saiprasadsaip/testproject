@@ -30,7 +30,7 @@ void insert(struct node **head,int element)
 struct node *last1=NULL;
 if(k>n||*head==NULL)
     return;
-       // struct node *c1=current;
+       // struct nodgfhgfe *c1=current;
  struct node *c1;
          struct node *prev;
          struct node *temp;
